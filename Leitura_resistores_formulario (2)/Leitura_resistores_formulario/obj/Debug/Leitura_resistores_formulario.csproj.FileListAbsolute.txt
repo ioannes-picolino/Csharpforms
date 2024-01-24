@@ -1,0 +1,11 @@
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\bin\Debug\Leitura_resistores_formulario.exe.config
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\bin\Debug\Leitura_resistores_formulario.exe
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\bin\Debug\Leitura_resistores_formulario.pdb
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.csproj.AssemblyReference.cache
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.Leitura_resistores.resources
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.Properties.Resources.resources
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.csproj.GenerateResource.cache
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.csproj.CoreCompileInputs.cache
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.exe
+C:\Users\082210015\source\repos\Leitura_resistores_formulario\obj\Debug\Leitura_resistores_formulario.pdb
