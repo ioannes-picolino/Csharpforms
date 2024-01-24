@@ -1,0 +1,10 @@
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\bin\Debug\atividadeB2N2.exe.config
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\bin\Debug\atividadeB2N2.exe
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\bin\Debug\atividadeB2N2.pdb
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.csproj.AssemblyReference.cache
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.TelaPrincipal.resources
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.Properties.Resources.resources
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.csproj.GenerateResource.cache
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.csproj.CoreCompileInputs.cache
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.exe
+C:\Users\082210015\Downloads\OneDrive_1_23-10-2023\Recursos_B2N1\2023_2_atividadeB2N1\atividadeB2N2\obj\Debug\atividadeB2N2.pdb
