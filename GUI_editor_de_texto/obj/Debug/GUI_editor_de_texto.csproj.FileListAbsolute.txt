@@ -1,0 +1,10 @@
+C:\Users\082210015\source\repos\GUI_editor_de_texto\bin\Debug\GUI_editor_de_texto.exe.config
+C:\Users\082210015\source\repos\GUI_editor_de_texto\bin\Debug\GUI_editor_de_texto.exe
+C:\Users\082210015\source\repos\GUI_editor_de_texto\bin\Debug\GUI_editor_de_texto.pdb
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.csproj.AssemblyReference.cache
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.Form1.resources
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.Properties.Resources.resources
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.csproj.GenerateResource.cache
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.csproj.CoreCompileInputs.cache
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.exe
+C:\Users\082210015\source\repos\GUI_editor_de_texto\obj\Debug\GUI_editor_de_texto.pdb
